@@ -46,7 +46,8 @@
   }
 
   .header__logo--container {
-    width: 58px;
+    width: 115px; /* Default: 58px */
+    height: 25px; /* Added to better center svg logo */
 
     .logo {
       fill: currentColor;
