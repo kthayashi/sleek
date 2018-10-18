@@ -31,6 +31,11 @@ img {
   vertical-align: middle;
 }
 
+img.profile_pic {
+  max-width:15em;
+  max-height:15em;
+}
+
 img::selection {
   background: transparent;
 }
