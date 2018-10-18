@@ -30,7 +30,7 @@ tagline: >
 
 hero_img: posts/indian_paintbrush_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: # email for form submission
+email: kthayashi@ucla.edu # email for form submission
 
 twitter_username: kthayashi # replace with your_twitter_username or comment to remove link from footer
 github_username: kthayashi # replace with your_github_username or comment to remove link from footer
