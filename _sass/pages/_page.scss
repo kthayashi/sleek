@@ -33,7 +33,7 @@
   background-color: $dark-light;
 
   @include breakpoint($lg) {
-    height: 12.5em;
+    height: 18em;
   }
 
   &::before {
