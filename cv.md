@@ -1,6 +1,6 @@
 ---
 layout: page
-hero_img: silvery_lupine_lg.jpg
+hero_img: columbines_lg.jpg
 title: CV
 permalink: /cv/
 ---
