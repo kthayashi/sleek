@@ -2,7 +2,7 @@
 layout: post
 title: I started a Ph.D. at UCLA!
 summary: Last month I started working towards a Ph.D. in the Department of Ecology and Evolutionary Biology at UCLA, where I am working with Dr. Nathan Kraft to study plant community ecology.
-featured-img: royce_hall_lg
+featured-img: royce_hall
 categories: News
 ---
 
