@@ -3,7 +3,7 @@ layout: post
 title: "Explaining the ocean's richest biodiversity hotspot and global patterns of fish diversity"
 summary: My first co-authored scientific paper "Explaining the ocean's richest biodiversity hotspot and global patterns of fish diversity" was published in Proceedings of the Royal Society B on October 10, 2018.
 featured-img: johnny-chen-77988-unsplash
-categories: Publication
+categories: Publications
 ---
 
 <img src="/assets/img/posts/miller_et_al_2018.png" alt="Miller et al. (2018)">
