@@ -9,7 +9,7 @@ Gemfile.lock
 npm-debug.log
 *.js.map
 maps
-_includes/logo.gvdesign
+*.gvdesign
 NOTES.txt
 
 # OS Generated files #
