@@ -1,6 +1,6 @@
 # Personal Website for Kenji T. Hayashi
 
-This is the repo for my personal website. This website is a fork of the Jekyll theme Sleek by @janczizikow (https://github.com/janczizikow/sleek). The original README for the Sleek repo can be found below:
+This is the repo for my personal website, a fork of the Jekyll theme Sleek by Jan Czizikow (https://github.com/janczizikow/sleek). The original README for the Sleek repo can be found below:
 
 ***
 
