@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Ph.D. Student in Ecology and Evolutionary Biology at UCLA
 
-hero_img: posts/lasthenia_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/lasthenia_on_hummock_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: kthayashi@ucla.edu # email for form submission
 
