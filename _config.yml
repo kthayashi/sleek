@@ -2,7 +2,7 @@
 title: Kenji T. Hayashi # your site title
 author: Kenji T. Hayashi # You :P
 description: > # Meta description of Homepage
-  Personal website for Kenji T. Hayashi, Ph.D. student in the Kraft Lab, Department of Ecology and Evolutionary Biology, UCLA. Plant community assembly, coexistence, and biogeography.
+  Personal website for Kenji T. Hayashi, Ph.D. student in the Kraft Lab, Department of Ecology and Evolutionary Biology, UCLA. Plant community ecology and biogeography.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kthayashi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Ph.D. Student in Ecology and Evolutionary Biology at UCLA
 
-hero_img: posts/indian_paintbrush_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: lasthenia_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: kthayashi@ucla.edu # email for form submission
 
